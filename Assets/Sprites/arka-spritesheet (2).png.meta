@@ -1,0 +1,663 @@
+fileFormatVersion: 2
+guid: 5086be3a96e78d846a48f51b81137661
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8910970323504089818
+    second: arka-spritesheet (2)_0
+  - first:
+      213: -8676351194007231607
+    second: arka-spritesheet (2)_1
+  - first:
+      213: -1728504275160912227
+    second: arka-spritesheet (2)_2
+  - first:
+      213: -6874942139410746134
+    second: arka-spritesheet (2)_3
+  - first:
+      213: -1419390219694369588
+    second: arka-spritesheet (2)_4
+  - first:
+      213: -9054751338002823984
+    second: arka-spritesheet (2)_5
+  - first:
+      213: -3769784652495236137
+    second: arka-spritesheet (2)_6
+  - first:
+      213: -3518304374148028134
+    second: arka-spritesheet (2)_7
+  - first:
+      213: -1734798564490010146
+    second: arka-spritesheet (2)_8
+  - first:
+      213: -2122361239420310903
+    second: arka-spritesheet (2)_9
+  - first:
+      213: 306467946406076567
+    second: arka-spritesheet (2)_10
+  - first:
+      213: 347496913309502083
+    second: arka-spritesheet (2)_11
+  - first:
+      213: -4694726927139301390
+    second: arka-spritesheet (2)_12
+  - first:
+      213: -7874955853211530917
+    second: arka-spritesheet (2)_13
+  - first:
+      213: 4362093789807686577
+    second: arka-spritesheet (2)_14
+  - first:
+      213: -7773765197260807291
+    second: arka-spritesheet (2)_15
+  - first:
+      213: -2568368442353522839
+    second: arka-spritesheet (2)_16
+  - first:
+      213: -3905888435775392742
+    second: arka-spritesheet (2)_17
+  - first:
+      213: -8575858511297648524
+    second: arka-spritesheet (2)_18
+  - first:
+      213: 6731662298837312133
+    second: arka-spritesheet (2)_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: arka-spritesheet (2)_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 373
+        width: 56
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 625bd7ff3bfd55480800000000000000
+      internalID: -8910970323504089818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arka-spritesheet (2)_1
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 373
+        width: 56
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 983a9aeee88679780800000000000000
+      internalID: -8676351194007231607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arka-spritesheet (2)_2
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 373
+        width: 57
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9e2a4e058e1308e0800000000000000
+      internalID: -1728504275160912227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arka-spritesheet (2)_3
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 373
+        width: 62
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae4fe099c8c4790a0800000000000000
+      internalID: -6874942139410746134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arka-spritesheet (2)_4
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 373
+        width: 56
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc4147d8d105d4ce0800000000000000
+      internalID: -1419390219694369588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arka-spritesheet (2)_5
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 253
+        width: 51
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d449d8d1af075280800000000000000
+      internalID: -9054751338002823984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arka-spritesheet (2)_6
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 253
+        width: 50
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d35d4ce4d80fabc0800000000000000
+      internalID: -3769784652495236137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arka-spritesheet (2)_7
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 253
+        width: 51
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a19243fffc87c2fc0800000000000000
+      internalID: -3518304374148028134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arka-spritesheet (2)_8
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 253
+        width: 50
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed127be95e1cce7e0800000000000000
+      internalID: -1734798564490010146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arka-spritesheet (2)_9
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 253
+        width: 50
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98a6b4f82bbdb82e0800000000000000
+      internalID: -2122361239420310903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arka-spritesheet (2)_10
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 129
+        width: 51
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 790e39839fac04400800000000000000
+      internalID: 306467946406076567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arka-spritesheet (2)_11
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 130
+        width: 50
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38a8b5ef99e82d400800000000000000
+      internalID: 347496913309502083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arka-spritesheet (2)_12
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 130
+        width: 50
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f79666cbbaf8deb0800000000000000
+      internalID: -4694726927139301390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arka-spritesheet (2)_13
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 130
+        width: 50
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b598173ff5986b290800000000000000
+      internalID: -7874955853211530917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arka-spritesheet (2)_14
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 130
+        width: 51
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b3bc62c035498c30800000000000000
+      internalID: 4362093789807686577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arka-spritesheet (2)_15
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 6
+        width: 51
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 583a9f18db90e1490800000000000000
+      internalID: -7773765197260807291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arka-spritesheet (2)_16
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 6
+        width: 52
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 967e13d62825b5cd0800000000000000
+      internalID: -2568368442353522839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arka-spritesheet (2)_17
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 6
+        width: 52
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a143d45792f7bc9c0800000000000000
+      internalID: -3905888435775392742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arka-spritesheet (2)_18
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 6
+        width: 52
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 478e71eee1e6cf880800000000000000
+      internalID: -8575858511297648524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arka-spritesheet (2)_19
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 6
+        width: 52
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5826616e13bab6d50800000000000000
+      internalID: 6731662298837312133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      arka-spritesheet (2)_0: -8910970323504089818
+      arka-spritesheet (2)_1: -8676351194007231607
+      arka-spritesheet (2)_10: 306467946406076567
+      arka-spritesheet (2)_11: 347496913309502083
+      arka-spritesheet (2)_12: -4694726927139301390
+      arka-spritesheet (2)_13: -7874955853211530917
+      arka-spritesheet (2)_14: 4362093789807686577
+      arka-spritesheet (2)_15: -7773765197260807291
+      arka-spritesheet (2)_16: -2568368442353522839
+      arka-spritesheet (2)_17: -3905888435775392742
+      arka-spritesheet (2)_18: -8575858511297648524
+      arka-spritesheet (2)_19: 6731662298837312133
+      arka-spritesheet (2)_2: -1728504275160912227
+      arka-spritesheet (2)_3: -6874942139410746134
+      arka-spritesheet (2)_4: -1419390219694369588
+      arka-spritesheet (2)_5: -9054751338002823984
+      arka-spritesheet (2)_6: -3769784652495236137
+      arka-spritesheet (2)_7: -3518304374148028134
+      arka-spritesheet (2)_8: -1734798564490010146
+      arka-spritesheet (2)_9: -2122361239420310903
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
