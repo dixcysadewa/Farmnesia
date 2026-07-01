@@ -579,7 +579,7 @@ GameObject:
   - component: {fileID: 1049215640}
   - component: {fileID: 1049215639}
   m_Layer: 0
-  m_Name: ChatGPT Image 24 Jun 2026, 01.58.17_0
+  m_Name: Background
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
