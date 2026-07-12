@@ -1,0 +1,975 @@
+fileFormatVersion: 2
+guid: 3c5ac36fd5a78a1479c75f79452baa5d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4365549885791910711
+    second: Tanaman_0
+  - first:
+      213: -1010435685854090058
+    second: Tanaman_1
+  - first:
+      213: -5580115558337109130
+    second: Tanaman_2
+  - first:
+      213: -7836678674774708737
+    second: Tanaman_3
+  - first:
+      213: -4170030552145090170
+    second: Tanaman_4
+  - first:
+      213: -1079566817714843009
+    second: Tanaman_5
+  - first:
+      213: 1485631882965504116
+    second: Tanaman_6
+  - first:
+      213: -5654310642697988631
+    second: Tanaman_7
+  - first:
+      213: 5824895215491713779
+    second: Tanaman_8
+  - first:
+      213: -8923298792050006521
+    second: Tanaman_9
+  - first:
+      213: 7927572268181884885
+    second: Tanaman_10
+  - first:
+      213: 8140425984925400964
+    second: Tanaman_11
+  - first:
+      213: -8089325489658743797
+    second: Tanaman_12
+  - first:
+      213: 5758502869447342328
+    second: Tanaman_13
+  - first:
+      213: -7137820517223579649
+    second: Tanaman_14
+  - first:
+      213: -894345039038872267
+    second: Tanaman_15
+  - first:
+      213: -6318398325666299617
+    second: Tanaman_16
+  - first:
+      213: 6848766819934403307
+    second: Tanaman_17
+  - first:
+      213: 6806763359359167379
+    second: Tanaman_18
+  - first:
+      213: 7893418509574813042
+    second: Tanaman_19
+  - first:
+      213: -3872930352095960848
+    second: Tanaman_20
+  - first:
+      213: 7359900168063663228
+    second: Tanaman_21
+  - first:
+      213: 8363892318756210050
+    second: Tanaman_22
+  - first:
+      213: -5417197946059155457
+    second: Tanaman_23
+  - first:
+      213: 1005951836789826545
+    second: Tanaman_24
+  - first:
+      213: 1756618312366933274
+    second: Tanaman_25
+  - first:
+      213: -6904699625612443773
+    second: Tanaman_26
+  - first:
+      213: -9165781093393672109
+    second: Tanaman_27
+  - first:
+      213: 4986227695410188474
+    second: Tanaman_28
+  - first:
+      213: -4962307937672493525
+    second: Tanaman_29
+  - first:
+      213: -6290846067364895375
+    second: Tanaman_30
+  - first:
+      213: 1751379383867254839
+    second: Tanaman_31
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tanaman_0
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 560
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c4402032837a63c0800000000000000
+      internalID: -4365549885791910711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tanaman_1
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 488
+        width: 107
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bce944e8163af1f0800000000000000
+      internalID: -1010435685854090058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tanaman_2
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 487
+        width: 113
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 673afa3e6727f82b0800000000000000
+      internalID: -5580115558337109130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tanaman_3
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 487
+        width: 121
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffdac2b04468e3390800000000000000
+      internalID: -7836678674774708737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tanaman_4
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 489
+        width: 98
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 689addc7e431126c0800000000000000
+      internalID: -4170030552145090170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tanaman_5
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 513
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f72dec6f2bb9401f0800000000000000
+      internalID: -1079566817714843009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tanaman_6
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 392
+        width: 107
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 470572b83560e9410800000000000000
+      internalID: 1485631882965504116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tanaman_7
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 390
+        width: 117
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e59644ad6ad781b0800000000000000
+      internalID: -5654310642697988631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tanaman_8
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 389
+        width: 121
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fa814d365f26d050800000000000000
+      internalID: 5824895215491713779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tanaman_9
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 390
+        width: 123
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 706ef2bb6031a2480800000000000000
+      internalID: -8923298792050006521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tanaman_10
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 443
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5df0830d9f4640e60800000000000000
+      internalID: 7927572268181884885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tanaman_11
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 419
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48f76dfad4a98f070800000000000000
+      internalID: 8140425984925400964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tanaman_12
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 288
+        width: 98
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b04b0648351fcbf80800000000000000
+      internalID: -8089325489658743797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tanaman_13
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 286
+        width: 109
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f8f97399df4aef40800000000000000
+      internalID: 5758502869447342328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tanaman_14
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 286
+        width: 115
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fffb460be0e51fc90800000000000000
+      internalID: -7137820517223579649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tanaman_15
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 285
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5358479ece5a693f0800000000000000
+      internalID: -894345039038872267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tanaman_16
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 327
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f11cc39f23a8058a0800000000000000
+      internalID: -6318398325666299617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tanaman_17
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 195
+        width: 97
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: beafbabe225bb0f50800000000000000
+      internalID: 6848766819934403307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tanaman_18
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 193
+        width: 115
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39b6fb8263b767e50800000000000000
+      internalID: 6806763359359167379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tanaman_19
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 193
+        width: 119
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27533b6305e0b8d60800000000000000
+      internalID: 7893418509574813042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tanaman_20
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 192
+        width: 127
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f0ed7b4d56904ac0800000000000000
+      internalID: -3872930352095960848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tanaman_21
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 236
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7cb5cb553e932660800000000000000
+      internalID: 7359900168063663228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tanaman_22
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 111
+        width: 97
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 285051700c3821470800000000000000
+      internalID: 8363892318756210050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tanaman_23
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 109
+        width: 111
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff71b2b6b2f32d4b0800000000000000
+      internalID: -5417197946059155457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tanaman_24
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 109
+        width: 120
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f36205addbd5fd00800000000000000
+      internalID: 1005951836789826545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tanaman_25
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 107
+        width: 133
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a15c3925c03c06810800000000000000
+      internalID: 1756618312366933274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tanaman_26
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 145
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38ff89ee5449d20a0800000000000000
+      internalID: -6904699625612443773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tanaman_27
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 6
+        width: 100
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 358574f68aa9cc080800000000000000
+      internalID: -9165781093393672109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tanaman_28
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 6
+        width: 115
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab0932abba3a23540800000000000000
+      internalID: 4986227695410188474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tanaman_29
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 5
+        width: 122
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b260eecd837522bb0800000000000000
+      internalID: -4962307937672493525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tanaman_30
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 5
+        width: 133
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1756d0205dc62b8a0800000000000000
+      internalID: -6290846067364895375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tanaman_31
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 46
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 738a95a35462e4810800000000000000
+      internalID: 1751379383867254839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Tanaman_0: -4365549885791910711
+      Tanaman_1: -1010435685854090058
+      Tanaman_10: 7927572268181884885
+      Tanaman_11: 8140425984925400964
+      Tanaman_12: -8089325489658743797
+      Tanaman_13: 5758502869447342328
+      Tanaman_14: -7137820517223579649
+      Tanaman_15: -894345039038872267
+      Tanaman_16: -6318398325666299617
+      Tanaman_17: 6848766819934403307
+      Tanaman_18: 6806763359359167379
+      Tanaman_19: 7893418509574813042
+      Tanaman_2: -5580115558337109130
+      Tanaman_20: -3872930352095960848
+      Tanaman_21: 7359900168063663228
+      Tanaman_22: 8363892318756210050
+      Tanaman_23: -5417197946059155457
+      Tanaman_24: 1005951836789826545
+      Tanaman_25: 1756618312366933274
+      Tanaman_26: -6904699625612443773
+      Tanaman_27: -9165781093393672109
+      Tanaman_28: 4986227695410188474
+      Tanaman_29: -4962307937672493525
+      Tanaman_3: -7836678674774708737
+      Tanaman_30: -6290846067364895375
+      Tanaman_31: 1751379383867254839
+      Tanaman_4: -4170030552145090170
+      Tanaman_5: -1079566817714843009
+      Tanaman_6: 1485631882965504116
+      Tanaman_7: -5654310642697988631
+      Tanaman_8: 5824895215491713779
+      Tanaman_9: -8923298792050006521
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
