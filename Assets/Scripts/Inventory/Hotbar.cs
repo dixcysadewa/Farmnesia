@@ -4,10 +4,40 @@ public class Hotbar : MonoBehaviour
 {
     [SerializeField] private GameObject[] highlights;
 
+    [Header("Item di tiap Slot")]
+    public ItemType[] slotItems = new ItemType[9];
+
     private int currentSlot = 0;
 
     private void Start()
     {
+        // Slot 1
+        slotItems[0] = ItemType.Hoe;
+
+        // Slot 2
+        slotItems[1] = ItemType.Axe;
+
+        // Slot 3
+        slotItems[2] = ItemType.WateringCan;
+
+        // Slot 4
+        slotItems[3] = ItemType.ChiliSeed;
+
+        // Slot 5
+        slotItems[4] = ItemType.CarrotSeed;
+
+        // Slot 6
+        slotItems[5] = ItemType.TomatoSeed;
+
+        // Slot 7
+        slotItems[6] = ItemType.CornSeed;
+
+        // Slot 8
+        slotItems[7] = ItemType.PotatoSeed;
+
+        // Slot 9
+        slotItems[8] = ItemType.CabbageSeed;
+
         SelectSlot(0);
     }
 
@@ -34,8 +64,8 @@ public class Hotbar : MonoBehaviour
         }
     }
 
-    public int GetCurrentSlot()
+    public ItemType GetCurrentItem()
     {
-        return currentSlot;
+        return slotItems[currentSlot];
     }
 }
