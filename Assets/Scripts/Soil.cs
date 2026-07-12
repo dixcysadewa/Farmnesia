@@ -14,25 +14,14 @@ public class Soil : MonoBehaviour
     private bool playerNearby = false;
     private bool isTilled = false;
 
-    // Referensi ke ToolManager
-    private ToolManager toolManager;
-
     void Awake()
     {
         sr = GetComponent<SpriteRenderer>();
     }
 
-    void Start()
-    {
-        toolManager = FindFirstObjectByType<ToolManager>();
-    }
-
     void Update()
     {
-        if (playerNearby &&
-            Input.GetKeyDown(hoeKey) &&
-            toolManager != null &&
-            toolManager.currentTool == ToolManager.Tool.Hoe)
+        if (playerNearby && Input.GetKeyDown(hoeKey))
         {
             HoeSoil();
         }

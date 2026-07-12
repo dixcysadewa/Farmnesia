@@ -1,0 +1,663 @@
+fileFormatVersion: 2
+guid: 665e03747ac3d264e9bbceceac5acda8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7145733586803901237
+    second: pak surya_0
+  - first:
+      213: -518189290610827568
+    second: pak surya_1
+  - first:
+      213: -6002962878724910194
+    second: pak surya_2
+  - first:
+      213: 3572565832234844488
+    second: pak surya_3
+  - first:
+      213: 697014644553533778
+    second: pak surya_4
+  - first:
+      213: 4336956294964950392
+    second: pak surya_5
+  - first:
+      213: 5773327471963204153
+    second: pak surya_6
+  - first:
+      213: 8509829353714124829
+    second: pak surya_7
+  - first:
+      213: 3844454728237807460
+    second: pak surya_8
+  - first:
+      213: 3768206864955942333
+    second: pak surya_9
+  - first:
+      213: -4328158587382718708
+    second: pak surya_10
+  - first:
+      213: 1523917740039840316
+    second: pak surya_11
+  - first:
+      213: 4113994727320372304
+    second: pak surya_12
+  - first:
+      213: -4147235118675257706
+    second: pak surya_13
+  - first:
+      213: -6715759077875436186
+    second: pak surya_14
+  - first:
+      213: -7791801934183175129
+    second: pak surya_15
+  - first:
+      213: -2924864501709248000
+    second: pak surya_16
+  - first:
+      213: 5316128707195814580
+    second: pak surya_17
+  - first:
+      213: 5965226320119526321
+    second: pak surya_18
+  - first:
+      213: 6988426760422656300
+    second: pak surya_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pak surya_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 705
+        width: 332
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bccb9fa992145dc90800000000000000
+      internalID: -7145733586803901237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pak surya_1
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 705
+        width: 112
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dedabee5950fc8f0800000000000000
+      internalID: -518189290610827568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pak surya_2
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 705
+        width: 111
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e83debd111131bca0800000000000000
+      internalID: -6002962878724910194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pak surya_3
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 705
+        width: 111
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8414e0732bd449130800000000000000
+      internalID: 3572565832234844488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pak surya_4
+      rect:
+        serializedVersion: 2
+        x: 1384
+        y: 705
+        width: 320
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 259cbd3502b4ca900800000000000000
+      internalID: 697014644553533778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pak surya_5
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 493
+        width: 97
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 875b7c7a5c6ff2c30800000000000000
+      internalID: 4336956294964950392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pak surya_6
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 493
+        width: 95
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93aee525fbafe1050800000000000000
+      internalID: 5773327471963204153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pak surya_7
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 493
+        width: 95
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d18825fc5bcf81670800000000000000
+      internalID: 8509829353714124829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pak surya_8
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 493
+        width: 95
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4677fafd43f3a5530800000000000000
+      internalID: 3844454728237807460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pak surya_9
+      rect:
+        serializedVersion: 2
+        x: 1391
+        y: 493
+        width: 96
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db523e9cd2c5b4430800000000000000
+      internalID: 3768206864955942333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pak surya_10
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 262
+        width: 114
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0f1f7342ba4fe3c0800000000000000
+      internalID: -4328158587382718708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pak surya_11
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 262
+        width: 114
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c32adf94c1b062510800000000000000
+      internalID: 1523917740039840316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pak surya_12
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 262
+        width: 112
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 054c2c95868d71930800000000000000
+      internalID: 4113994727320372304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pak surya_13
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 262
+        width: 111
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 696165fe1af0276c0800000000000000
+      internalID: -4147235118675257706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pak surya_14
+      rect:
+        serializedVersion: 2
+        x: 1383
+        y: 262
+        width: 112
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 665312643b4dcc2a0800000000000000
+      internalID: -6715759077875436186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pak surya_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 323
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72c6fc07c65fdd390800000000000000
+      internalID: -7791801934183175129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pak surya_16
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 52
+        width: 97
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00a68777b3bc867d0800000000000000
+      internalID: -2924864501709248000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pak surya_17
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 53
+        width: 95
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b2c9a4a4eea6c940800000000000000
+      internalID: 5316128707195814580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pak surya_18
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 53
+        width: 96
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b3f887abbdb8c250800000000000000
+      internalID: 5965226320119526321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pak surya_19
+      rect:
+        serializedVersion: 2
+        x: 1391
+        y: 0
+        width: 313
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2983d1cc11ebf060800000000000000
+      internalID: 6988426760422656300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      pak surya_0: -7145733586803901237
+      pak surya_1: -518189290610827568
+      pak surya_10: -4328158587382718708
+      pak surya_11: 1523917740039840316
+      pak surya_12: 4113994727320372304
+      pak surya_13: -4147235118675257706
+      pak surya_14: -6715759077875436186
+      pak surya_15: -7791801934183175129
+      pak surya_16: -2924864501709248000
+      pak surya_17: 5316128707195814580
+      pak surya_18: 5965226320119526321
+      pak surya_19: 6988426760422656300
+      pak surya_2: -6002962878724910194
+      pak surya_3: 3572565832234844488
+      pak surya_4: 697014644553533778
+      pak surya_5: 4336956294964950392
+      pak surya_6: 5773327471963204153
+      pak surya_7: 8509829353714124829
+      pak surya_8: 3844454728237807460
+      pak surya_9: 3768206864955942333
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

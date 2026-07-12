@@ -67,6 +67,6 @@
         "*.sln": "*.csproj",
         "*.slnx": "*.csproj"
     },
-    "dotnet.defaultSolution": "Farmnesia.slnx",
+    "dotnet.defaultSolution": "Tubes Farmnesia.slnx",
     "dotnet.enableWorkspaceBasedDevelopment": false
 }
